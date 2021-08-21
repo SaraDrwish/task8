@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.content{
+    width: 88%;
+    height: 400px;
+    margin: auto;
+    /* background-color: aquamarine; */
+}
+
+.item{
+    width: 30%;
+    height: 30%;
+    float: left;
+    /* background-color:cornsilk ; */
+    margin: 18px;
+}
+
+.icon{
+    width: 33px;
+    height: 31px;
+    margin: 10px ;
+    padding-top: 9px;
+    float: left;
+}
+
+.head3{
+    /* width: 80%; */
+    /* margin: auto; */
+    /* margin: 18px; */
+    font-weight: lighter;
+
+}
+
+.parag{
+    color: gray;
+    font-size: 17px;
+    width: 320px;
+}
+
+.contener_item{
+    width: 85%;
+    float: right ;
+
+}
